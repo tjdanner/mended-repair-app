@@ -1,0 +1,22 @@
+#job-form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  background-color: black;
+  padding: 32px;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+input {
+  margin-bottom: 32px;
+  height: 32px;
+}
+
+button {
+  height: 32px;
+  background-color: #5e4080;
+  cursor: pointer;
+}
